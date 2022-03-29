@@ -1,0 +1,22 @@
+.body-content {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.card-header {
+    /* background: darkseagreen; */
+    color: rgba(255,255,255,0.85);
+    background: #0078d4;
+    font-weight: 300;
+}
+
+.card-columns {
+    column-count: 1;
+}
+
+.card-text {
+    align-content: center
+}
